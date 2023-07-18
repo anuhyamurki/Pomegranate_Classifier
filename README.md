@@ -6,7 +6,7 @@ i) 88 Healthy images
 ii) 46 Fungal infected images
 iii) 104 Bacterially infected images
 We are supposed to build a model and train it on this dataset in such a way that given a new image of a leaf, the model should classify it into one of the three categories.
-### Development phases
+## Development phases
 CNN Model development phases
 Step-1 Data pre-processing
 Step-2 Train test and validation split
